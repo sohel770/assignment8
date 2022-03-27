@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Question from './components/Question/Question';
 import Shop from './components/Shop/Shop';
 
 function App() {
   return (
     <div>
       <Shop/>
+      <Question/>
     </div>
   );
 }
