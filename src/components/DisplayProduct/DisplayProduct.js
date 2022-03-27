@@ -6,7 +6,7 @@ const DisplayProduct = ({order}) => {
 console.log(order.name)
     return (
         <div className='displayShow'>
-             <h4> <img src={img} alt="" />  = {name} ${price}</h4>
+             <h4> <img src={img} alt="" />   {name} ${price}</h4>
         </div>
     );
 };
