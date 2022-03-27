@@ -1,0 +1,112 @@
+[
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77bs362jd6ead",
+    "name": "Apple",
+    "seller": "Addidas",
+    "price": 120,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/209339/pexels-photo-209339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362rd6ead",
+    "name": "Grapes ",
+    "seller": "Addidas",
+    "price": 100,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/5367042/pexels-photo-5367042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362gd6ead",
+    "name": "Pineapple ",
+    "seller": "Addidas",
+    "price": 140,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/137119/pexels-photo-137119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362du6ead",
+    "name": "Tomatoes",
+    "seller": "Addidas",
+    "price": 200,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/248420/pexels-photo-248420.jpeg?auto=compress&cs=tinysrgb&w=600"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b3t62d6ead",
+    "name": "Strawberry",
+    "seller": "Addidas",
+    "price": 110,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/407040/strawberry-water-splashes-splash-drop-of-water-407040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362jd6ead",
+    "name": "Mango ",
+    "seller": "Addidas",
+    "price": 140,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/918643/pexels-photo-918643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a7t7b362d6ead",
+    "name": "Orange ",
+    "seller": "Addidas",
+    "price": 200,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/820905/pexels-photo-820905.jpeg?auto=compress&cs=tinysrgb&w=600"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b3y62d6ead",
+    "name": "Papaya ",
+    "seller": "Addidas",
+    "price": 450,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/6419249/pexels-photo-6419249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-af77b362d6ead",
+    "name": "Watermelon ",
+    "seller": "Addidas",
+    "price": 300,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a7d7b362d6ead",
+    "name": "Pomegranate ",
+    "seller": "Addidas",
+    "price": 220,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/65256/pomegranate-open-cores-fruit-fruit-logistica-65256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-ah77b362d6ead",
+    "name": "Lemon ",
+    "seller": "Addidas",
+    "price": 250,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b36k2d6ead",
+    "name": "Bananas ",
+    "seller": "Addidas",
+    "price": 120,
+    "ratings": 4,
+    "img": "https://images.pexels.com/photos/5966630/pexels-photo-5966630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  }
+
+   
+]
