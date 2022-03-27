@@ -1,0 +1,21 @@
+.choose-one{
+    width: 232px;
+    height: 48px;
+   color: #fff;
+    border:none;
+    background: #FF9900;
+    border-radius: 4px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.choose-again{
+    color: #fff;
+    font-size: 17px;
+    width: 232px;
+    height: 48px;
+   margin-top: 5px;
+    border: none;
+    background: #188cb9;
+    border-radius: 4px;
+    cursor: pointer;
+}

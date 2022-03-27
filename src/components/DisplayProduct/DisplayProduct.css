@@ -1,0 +1,10 @@
+.displayShow img{
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
+.displayShow h4{
+    display: flex;
+    align-items: center;
+    
+}
