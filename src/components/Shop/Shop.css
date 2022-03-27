@@ -1,7 +1,10 @@
-
+.header{
+    text-align: center;
+}
 .shop-container{
     display:grid;
     grid-template-columns: 4fr 1fr;
+    margin-top: 20px;
 }
 
 .product-container{
@@ -10,6 +13,13 @@
     gap:45px;
 }
 
+.cart-container{
+    padding: 10px;
+    border-radius: 10px;
+    background: rgba(255, 153, 0, 0.3);
+    position: sticky;
+    top:0;
+}
 @media screen and (max-width:688px) {
     .shop-container{
         display: block;

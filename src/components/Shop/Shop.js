@@ -28,7 +28,9 @@ const handleAddToCart=(product)=>{
 
 
     return (
-        
+        <div className='container'>
+            <h2 className='header'>Fruits Store</h2>
+            <h3 className='header'>Choose 4 fruits</h3>
         <div className='shop-container'>
 
            <div className="product-container">
@@ -52,6 +54,7 @@ const handleAddToCart=(product)=>{
            </div>
 
 
+        </div>
         </div>
     );
 };
